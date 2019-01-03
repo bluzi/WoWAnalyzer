@@ -49,7 +49,7 @@
     "react": "^16.2.0",
     "react-chartist": "^0.13.1",
     "react-chartjs-2": "^2.7.0",
-    "react-dev-utils": "^4.2.1",
+    "react-dev-utils": "^4.2.2",
     "react-dom": "^16.2.0",
     "react-gemini-scrollbar": "^2.3.4",
     "react-masonry-component": "^5.0.7",
