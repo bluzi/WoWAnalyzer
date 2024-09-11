@@ -54,7 +54,7 @@
     "react-gemini-scrollbar": "^2.3.4",
     "react-masonry-component": "^5.0.7",
     "react-redux": "^5.0.7",
-    "react-router-dom": "^4.2.2",
+    "react-router-dom": "^6.0.0",
     "react-router-redux": "^5.0.0-alpha.9",
     "react-test-renderer": "^16.2.0",
     "react-textfit": "^1.1.0",
